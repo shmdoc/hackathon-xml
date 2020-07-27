@@ -1,4 +1,4 @@
-# Hackathon csv
+# Hackathon xml
 During the first week of [osoc](https://osoc.be/), there is a small hackathon. This repo was one of the results of this hackathon.
 The goal of this repo was to find a way to convert an xml file to a table, so it could be analyzed with the same service as the csv-analyzer. The hardest part of this is finding the piece of data the user is most probably wants to analyze (since you've got multiple levels of data in xml files).
 
